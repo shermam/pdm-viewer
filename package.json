@@ -1,0 +1,19 @@
+{
+  "name": "pdm-viewer",
+  "version": "1.0.0",
+  "description": "Wep App to see information of a Powerdesigner PDM file",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shermam/pdm-viewer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shermam/pdm-viewer/issues"
+  },
+  "homepage": "https://github.com/shermam/pdm-viewer#readme"
+}
